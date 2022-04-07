@@ -162,7 +162,7 @@ section ul li:before {
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 1px;
-	color:#000;
+	color:#fff;
 }
 .navbar-default .nav li a:hover,.navbar-default .nav li a:focus {
 	color: #fed136;
@@ -182,7 +182,7 @@ section ul li:before {
 @media (min-width:768px) {
 	.navbar-default
 	{
-		background-color: rgba(255, 255, 255, 0.65);
+		background-color: rgba(0, 0, 0, 0.65);
 		padding: 5px 0;
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
@@ -199,7 +199,7 @@ section ul li:before {
 		border-radius: 3px
 	}
 	.navbar-default.navbar-shrink {
-		background-color: #FFFFFF;
+		background-color: #111111;
 		border-bottom: 1px solid #828282;
 		padding: 5px 0
 	}
